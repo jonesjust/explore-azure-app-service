@@ -1,3 +1,4 @@
+[Exercise: Create a static HTML web app by using Azure Cloud Shell](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/7-create-html-web-app)
 ## Change to the directory that contains the sample code and run the az webapp up command.
 ![Screenshot 2023-01-03 at 9 26 25 PM](https://user-images.githubusercontent.com/86092532/211988311-b0928ca5-7261-409a-a64d-dbc83194bd46.png)
 
